@@ -1,5 +1,9 @@
 Revision history for Perl module Dackup:
 
+0.44 Sun 10 Jan 2010 20:57:46 GMT
+     - Return updated files from backup() and add tests (Leo Lapworth)
+     - Do not backup the cache 'dackup.db' file + add filesystem tests (Leo Lapworth)
+
 0.43 Sat Jan  5 10:56:50 GMT 2010
      - Minor doc patch for 'prefix' from leo
 
